@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1662463023222,
+  "timestamp": 1662464641990,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -145,6 +145,7 @@
         "/assets/img/icons/spot-illustrations/50.png",
         "/assets/img/icons/spot-illustrations/authentication-corner.png",
         "/assets/img/icons/spot-illustrations/bg-shape.png",
+        "/assets/img/icons/spot-illustrations/bonanza.png",
         "/assets/img/icons/spot-illustrations/calendar.svg",
         "/assets/img/icons/spot-illustrations/comment-active.png",
         "/assets/img/icons/spot-illustrations/comment-inactive.png",
@@ -471,6 +472,7 @@
     "/assets/img/icons/spot-illustrations/50.png": "b6c896343a711350365133e658465d727bf23dfa",
     "/assets/img/icons/spot-illustrations/authentication-corner.png": "47460d0354ac2ebbe81c757783ae34ec654a3e52",
     "/assets/img/icons/spot-illustrations/bg-shape.png": "48f28acffddeae9713e14e9a36ee467484399ee6",
+    "/assets/img/icons/spot-illustrations/bonanza.png": "b3964f046c4a6d80acf6d28bb992bf17d7ca1301",
     "/assets/img/icons/spot-illustrations/calendar.svg": "62e2f1a09a3bcc5bc7c3ed6374b3cfd5830729bb",
     "/assets/img/icons/spot-illustrations/comment-active.png": "c28c5cc369fd83c1da70976a42e238f4b0df0b7d",
     "/assets/img/icons/spot-illustrations/comment-inactive.png": "6ddf9152545d948a105a79f3356c3efbaac3ff33",
@@ -675,7 +677,7 @@
     "/assets/video/beach.webm": "6138c8b86912a9711f4341df070c379ad434f3a4",
     "/bg-navbar.2f1b7133e95a5e78.png": "244bcff67838c9bb7caf104a5088b52b203226da",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "36e34a692e314626f08c8cc8e70c356985e54b7b",
+    "/index.html": "96764930ff1545548657e01d49cda24736237650",
     "/main.083db496b82f0d35.js": "439aa80a7c1735afc71feccbec8f956dcce1b5ad",
     "/manifest.webmanifest": "91c975a9ad46f62dd0d82ad96ea8c2b78f0ad140",
     "/polyfills.07a8fb9ad3757ddd.js": "88c4aeef9ece3af2246253d6b61453eabee963d7",
