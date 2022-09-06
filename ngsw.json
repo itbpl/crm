@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1662381520358,
+  "timestamp": 1662463023222,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.9eb2894528b7aa45.js",
+        "/main.083db496b82f0d35.js",
         "/manifest.webmanifest",
         "/polyfills.07a8fb9ad3757ddd.js",
         "/runtime.1924a81cd6a759d8.js",
@@ -675,8 +675,8 @@
     "/assets/video/beach.webm": "6138c8b86912a9711f4341df070c379ad434f3a4",
     "/bg-navbar.2f1b7133e95a5e78.png": "244bcff67838c9bb7caf104a5088b52b203226da",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "7e06fc1bdd7a02a8daa77a383d7717df5bb503c7",
-    "/main.9eb2894528b7aa45.js": "8953ad1142fd614d3506a8cb80b9d7a5eed8ab17",
+    "/index.html": "36e34a692e314626f08c8cc8e70c356985e54b7b",
+    "/main.083db496b82f0d35.js": "439aa80a7c1735afc71feccbec8f956dcce1b5ad",
     "/manifest.webmanifest": "91c975a9ad46f62dd0d82ad96ea8c2b78f0ad140",
     "/polyfills.07a8fb9ad3757ddd.js": "88c4aeef9ece3af2246253d6b61453eabee963d7",
     "/runtime.1924a81cd6a759d8.js": "a48263c206ba472fff067229310017ef52e77e08",
